@@ -1,0 +1,27 @@
+{
+  "name": "nse-holiday-calendar",
+  "version": "1.0.1",
+  "description": "A lightweight JavaScript library to check NSE trading holidays and calculate next/previous trading days for Indian stock market",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": [
+    "nse",
+    "holiday",
+    "trading",
+    "stock-market",
+    "sonufsd"
+  ],
+  "author": "Sonu Kumar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonufsd/nse-holiday-calendar.git"
+  },
+  "homepage": "https://github.com/sonufsd/nse-holiday-calendar#readme",
+  "bugs": {
+    "url": "https://github.com/sonufsd/nse-holiday-calendar/issues"
+  },
+  "dependencies": {
+    "nse-holiday-calendar": "^1.0.1"
+  }
+}
